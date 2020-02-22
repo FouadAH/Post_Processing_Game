@@ -1,0 +1,156 @@
+[
+  {
+    "x": 1830,
+    "y": 480
+  },
+  {
+    "x": 0,
+    "y": 180
+  },
+  {"Size": 16},
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 1920,
+    "x": 0,
+    "h": 60,
+    "y": 0
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 570,
+    "x": 0,
+    "h": 60,
+    "y": 240
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 480,
+    "x": 300,
+    "h": 60,
+    "y": 570
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 60,
+    "x": 720,
+    "h": 510,
+    "y": 60
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 90,
+    "x": 780,
+    "h": 30,
+    "y": 720
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 1020,
+    "x": 0,
+    "h": 60,
+    "y": 780
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 900,
+    "x": 1020,
+    "h": 60,
+    "y": 600
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 60,
+    "x": 1020,
+    "h": 180,
+    "y": 660
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 90,
+    "x": 900,
+    "h": 30,
+    "y": 660
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 180,
+    "x": 1740,
+    "h": 30,
+    "y": 540
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 210,
+    "x": 1320,
+    "h": 30,
+    "y": 510
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 60,
+    "x": 1140,
+    "h": 30,
+    "y": 540
+  },
+  {
+    "Type": "sketch_2D_Version_2$spikes",
+    "w": 540,
+    "x": 1200,
+    "h": 30,
+    "y": 540
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 780,
+    "x": 1140,
+    "h": 30,
+    "y": 570
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 1920,
+    "x": 0,
+    "h": 240,
+    "y": 840
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 840,
+    "x": 1080,
+    "h": 180,
+    "y": 660
+  },
+  {"Empty": false},
+  {
+    "x": 420,
+    "y": 540
+  },
+  {
+    "x": 600,
+    "y": 540
+  },
+  {
+    "x": 210,
+    "y": 720
+  },
+  {
+    "x": 600,
+    "y": 720
+  },
+  {
+    "x": 1500,
+    "y": 450
+  },
+  {
+    "x": 1320,
+    "y": 450
+  },
+  {
+    "x": 930,
+    "y": 630
+  },
+  {
+    "x": 360,
+    "y": 180
+  }
+]

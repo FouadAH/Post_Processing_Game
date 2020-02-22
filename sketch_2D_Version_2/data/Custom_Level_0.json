@@ -1,0 +1,136 @@
+[
+  {
+    "x": 1830,
+    "y": 540
+  },
+  {
+    "x": 0,
+    "y": 180
+  },
+  {"Size": 12},
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 1920,
+    "x": 0,
+    "h": 60,
+    "y": 0
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 570,
+    "x": 0,
+    "h": 60,
+    "y": 240
+  },
+  {
+    "Type": "sketch_2D_Version_2$spikes",
+    "w": 1920,
+    "x": 0,
+    "h": 90,
+    "y": 990
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 480,
+    "x": 300,
+    "h": 60,
+    "y": 570
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 60,
+    "x": 720,
+    "h": 510,
+    "y": 60
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 90,
+    "x": 780,
+    "h": 30,
+    "y": 720
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 1020,
+    "x": 0,
+    "h": 60,
+    "y": 780
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 900,
+    "x": 1020,
+    "h": 60,
+    "y": 600
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 60,
+    "x": 1020,
+    "h": 180,
+    "y": 660
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 90,
+    "x": 900,
+    "h": 30,
+    "y": 660
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 30,
+    "x": 1410,
+    "h": 180,
+    "y": 330
+  },
+  {
+    "Type": "sketch_2D_Version_2$platform",
+    "w": 270,
+    "x": 1290,
+    "h": 30,
+    "y": 510
+  },
+  {"Empty": false},
+  {
+    "x": 420,
+    "y": 540
+  },
+  {
+    "x": 600,
+    "y": 540
+  },
+  {
+    "x": 210,
+    "y": 720
+  },
+  {
+    "x": 600,
+    "y": 720
+  },
+  {
+    "x": 1410,
+    "y": 300
+  },
+  {
+    "x": 1500,
+    "y": 450
+  },
+  {
+    "x": 1320,
+    "y": 450
+  },
+  {
+    "x": 930,
+    "y": 630
+  },
+  {
+    "x": 360,
+    "y": 180
+  },
+  {
+    "x": 1410,
+    "y": 570
+  }
+]
